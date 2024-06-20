@@ -1,0 +1,11 @@
+{
+  "name": "emoji-clicker",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">Emoji clicker</h2> <h3 align=\"center\">Emoji clicker for Google Meet</h3>",
+  "main": "EmojiClickerScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nan",
+  "license": "ISC"
+}
